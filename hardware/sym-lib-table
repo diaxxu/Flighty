@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lcsc")(type "KiCad")(uri "C:/Users/daxler/Documents/flighty/lib/lcsc.kicad_sym")(options "")(descr ""))
+)
