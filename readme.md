@@ -23,16 +23,24 @@ You can use Ardupilot or Inav once flashed in the flightcontroller but you need 
 <img width="916" height="652" alt="Capture d&#39;écran 2026-03-16 092545" src="https://github.com/user-attachments/assets/cfa197a2-18ce-4974-83fe-b3c4003e0c29" />
 
 - Pcb
-<img width="672" height="751" alt="Capture d&#39;écran 2026-03-16 085831" src="https://github.com/user-attachments/assets/6fae4b26-c32c-45fa-ab15-655e2c9f1e6d" />
 
+![Capture d&#39;écran 2026-03-19 112951](https://github.com/user-attachments/assets/8e834cd9-f544-48fb-815a-6ca0cd7bc62c)
 
 
 - 3d pcb
-<img width="1145" height="892" alt="Capture d&#39;écran 2026-03-16 070451" src="https://github.com/user-attachments/assets/7ec8866c-2a1f-4724-a488-b1d9cdd01b74" />
+![Capture d&#39;écran 2026-03-19 112940](https://github.com/user-attachments/assets/7f54e00f-af63-49e9-a9a5-9661707b93ec)
+<img width="827" height="779" alt="Capture d&#39;écran 2026-03-20 100125" src="https://github.com/user-attachments/assets/7e4a7a07-e1bb-4409-9a50-0d61d968046a" />
+
 
 
 
 ## render
-<img width="1004" height="673" alt="im2" src="https://github.com/user-attachments/assets/f9f5a1b9-2f68-4d1f-a9e1-a6bdcd5b2dae" />
-<img width="708" height="808" alt="im1" src="https://github.com/user-attachments/assets/37eb48b6-f087-44ba-9612-62e713fb79db" />
-<img width="928" height="824" alt="im" src="https://github.com/user-attachments/assets/5d0be0ab-790b-4c08-921d-ab9960ca5afa" />
+<img width="889" height="905" alt="Capture d&#39;écran 2026-03-19 103717" src="https://github.com/user-attachments/assets/e278687d-df88-489f-a5e7-6ef1f76d046a" />
+
+## Bom 
+| Item                  | Description          | Quantity | Unit Price ($) |
+|-----------------------|--------------------|----------|----------------|
+| Flight Controller     | JLCPCB             | 5 (PCB)  | $2             |        
+| Flight Controller PCBA| Assembled          | 2        | $130.71         |      
+
+### total : $159.21
