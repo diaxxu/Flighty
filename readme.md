@@ -1,4 +1,4 @@
-#  Flighty Flight Controller
+#  Flighty 
 
 **Flighty** is my very first custom-designed flight controller! I built this to be a versatile "brain" for just about anything that flies, from standard quadcopters and fixed-wing UAVs to high-power model rockets.
 
